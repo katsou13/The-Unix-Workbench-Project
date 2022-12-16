@@ -1,4 +1,4 @@
-ilenumber=$(ls -f | wc -l)
+filenumber=$(ls -f | wc -l)
 function response {
         read response
 }
