@@ -1,4 +1,4 @@
-eadme.md: guessinggame.sh 
+readme.md: guessinggame.sh 
         touch readme.md
         echo "The Unix Workbench project" > readme.md
         date >> readme.md
